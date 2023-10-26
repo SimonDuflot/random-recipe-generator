@@ -1,0 +1,52 @@
+
+body {
+	background: #EFEFBB;
+	background: -webkit-linear-gradient(to right, #D4D3DD, #EFEFBB);
+	background: linear-gradient(to right, #D4D3DD, #EFEFBB);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-family: 'Lato';
+	margin: 0;
+}
+
+
+h3 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+button {
+    justify-content: center;
+}
+
+.img {
+    max-width: 250px;
+    height: auto;
+    margin-top: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.videoplayer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
+
+.instructions {
+    margin-top: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 2;
+}
+
+.link {
+    text-align: center;
+}
